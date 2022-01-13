@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("server started");
-        int port = 8990;
+        int port = 3428;
 
         String adult = "Welcome to the adult zone, %s Have a good rest, or a good working day!";
         String child = "Welcome to the kids area, %s Let's play!";

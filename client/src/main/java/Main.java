@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         String host = "127.0.0.1";
-        int port = 8990;
+        int port = 3428;
         Scanner scanner = new Scanner(System.in);
 
         try {
